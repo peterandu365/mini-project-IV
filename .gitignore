@@ -1,0 +1,7 @@
+**/.DS_Store
+**/00_data_original/
+**/*.hyper
+**/*.parquet
+*.csv[20M,]
+*.xlsx[20M,]
+*.html[20M,]

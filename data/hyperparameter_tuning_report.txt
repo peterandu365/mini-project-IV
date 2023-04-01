@@ -1,0 +1,25 @@
+Model: hist_gradient_boosting_none
+Scaler: none
+Learning Rate: 0.1
+Max Depth: 6
+Accuracy: 0.6596694655471145
+Confusion Matrix:
+[[ 74 118]
+ [ 14 408]]
+Precision: 0.8082872450743173
+Recall: 0.6761206556082149
+F1-score: 0.6946654611211573
+
+Model: xgboost_none
+Scaler: none
+Learning Rate: 0.1
+Max Depth: 6
+N Estimators: 100
+Accuracy: 0.6433693189390911
+Confusion Matrix:
+[[ 97  95]
+ [  2 420]]
+Precision: 0.897665980190252
+Recall: 0.7502344984202212
+F1-score: 0.7815723941657773
+
